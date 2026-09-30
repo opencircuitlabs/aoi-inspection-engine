@@ -1,0 +1,6 @@
+node_modules/
+coverage/
+*.log
+plan.json
+result.json
+inspection-report.md

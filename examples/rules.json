@@ -1,0 +1,1 @@
+{"defaults":{"maxOffset":0.2,"maxRotation":5,"minConfidence":0.8,"inspectSolder":true},"packages":{"QFN-32":{"maxOffset":0.1,"maxRotation":3}},"types":{"passive":{"maxRotation":8}}}

@@ -1,0 +1,10 @@
+{
+  "name":"controller-board",
+  "components":[
+    {"reference":"R1","package":"0603","type":"passive","padCount":2},
+    {"reference":"C1","package":"0603","type":"passive","padCount":2},
+    {"reference":"U1","package":"QFN-32","type":"ic","padCount":33,"pin1Required":true,"critical":true,"markingPattern":"^STM32"},
+    {"reference":"D1","package":"0603","type":"diode","padCount":2,"polarized":true},
+    {"reference":"R2","package":"0603","type":"passive","padCount":2,"dnp":true}
+  ]
+}
